@@ -2,7 +2,7 @@ Perspective Questions for today:
 
 Joshua Blumenstock states that a humbler data science could transform international developement while also limiting the number of alleged silver bullets that have missed their mark in recent years. Describe the promises, pitfalls, and ways forward Blumenstock uses as the foundation for his thesis.
 
-Additionally, consider the dollowing statements from three of your classmates regarding this article. 
+Additionally, consider the following statements from three of your classmates regarding this article. 
 
 "Good intent is not enough in data science when dealing with the problems which determine people's experiences" Anna Raymond
 
