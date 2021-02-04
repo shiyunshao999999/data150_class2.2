@@ -13,3 +13,5 @@ Additionally, consider the following statements from three of your classmates re
 How do you response to these ideas regarding "good intent", "transparency", and the difficult "balancing act" when considering the intersection of human development with data science?
 
 Here are my responses about the questions: 
+
+The first statement may mean that despite the initial good willingness that the technology in data science may help people to have a better life；as the reading saided, data
