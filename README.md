@@ -6,4 +6,4 @@
 
 ## Formal Exercises
 
-1. [Blumenstock Responses](https://shiyunshao999999.github.io/data150_class2.2/BlumenstockResponse.html)
+1. [Assignment 1: Annotated Bibliography](https://shiyunshao999999.github.io/data150_class2.2/Assignment1.html)
