@@ -3,7 +3,7 @@
 ## Informal Responses
 
 1. [Blumenstock Responses](https://shiyunshao999999.github.io/data150_class2.2/BlumenstockResponse.html)
-2. 
+2. [Development as Freedom Responses](https://shiyunshao999999.github.io/data150_class2.2/DevelopmentasFreedom.html)
 
 ## Formal Exercises
 
