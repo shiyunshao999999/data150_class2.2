@@ -1,4 +1,4 @@
-Perspective Questions for today: 
+## Perspective Questions for today: 
 
 Joshua Blumenstock states that a humbler data science could transform international development while also limiting the number of alleged silver bullets that have missed their mark in recent years. Describe the promises, pitfalls, and ways forward Blumenstock uses as the foundation for his thesis.
 
@@ -14,7 +14,7 @@ How do you respond to these ideas regarding "good intent", "transparency", and t
 
 
 
-Here are my responses about the questions: 
+## Here are my responses about the questions: 
 
 
 From the reading, a humbler data science that could improve human development is described thoroughly. It is undeniable that data science is useful in many ways: match the data collected with human living conditions, leading to a corresponding action from the government to distribute humanitarian aid. With the help of data science, human development could reach a better place including reduced poverty and improved public health. However, the drawbacks discovered mean that the data science system requires self-improvement. From my perspective, the humbler data science means to have more respect to people, to be more practical to real-world conditions so as to validly use data science as an assistant to improve people’s living status, instead of just a flawed dominance machine leading to the conclusions.
