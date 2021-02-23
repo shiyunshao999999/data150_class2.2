@@ -18,7 +18,8 @@ Future researches related to the study include to improve methods to better repr
 
 
 
-Reference: 
+
+## Reference: 
 
 Salecker, L., Ahmadov, A., Karimli, L. (2020, May 19). Contrasting Monetary and Multidimensional Poverty Measures in a Low-Income Sub-Saharan African Country.
 https://link.springer.com/article/10.1007/s11205-020-02382-z
