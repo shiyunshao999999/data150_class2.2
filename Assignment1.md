@@ -1,8 +1,9 @@
-#Source 1
-##Contrasting Monetary and Multidimensional Poverty Measures in a Low-Income Sub-Saharan African Country
-##https://link.springer.com/article/10.1007/s11205-020-02382-z
+# Source 1
 
-##Authors: Lukas Salecker, Anar K.Ahmadov, Levla Karimli
+## Contrasting Monetary and Multidimensional Poverty Measures in a Low-Income Sub-Saharan African Country
+## https://link.springer.com/article/10.1007/s11205-020-02382-z
+
+## Authors: Lukas Salecker, Anar K.Ahmadov, Levla Karimli
 
 
 First, the article systematically compared the monetary and multidimensional poverty measures in Rwanda, in the context of low-income countries and Sub-Saharan Africa based on a theoretical and conceptual level, explaining the reasons that multidimensional poverty measures should at least supplement standard monetary measures. The article included the comparison cross-section and over-time and examined the overlaps and differences between the two measures. Second, the study that the article presented designed the research to construct and examine the multidimensional poverty index that allows capturing multiple country-specific dimensions of poverty, determining intra-dimensional and cross-dimensional poverty measures specific for Rwanda, so as to analyze the finding of the empirical studies to the theories. The studies investigated poverty rates based on different locations, communities, and individual factors. Third, employing the findings and arguments, the article extended implications for policymakers and future studies on poverty assessment. 
