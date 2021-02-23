@@ -1,7 +1,6 @@
 # Source 1
 
 ## Contrasting Monetary and Multidimensional Poverty Measures in a Low-Income Sub-Saharan African Country
-## https://link.springer.com/article/10.1007/s11205-020-02382-z
 
 ## Authors: Lukas Salecker, Anar K.Ahmadov, Levla Karimli
 
@@ -15,4 +14,10 @@ Exclusively employing monetary indicators for poverty measurement in the context
 The weaknesses of the study could be concluded in three. First, although disparities between the two assessment measures found in Rwanda could be employed in the East African context, generalizations beyond this region should not be made unless the context is verified to be similar. Second, assigning equal poverty status to all household members could be problematic due to the fact that it failed to take potential intra-household inequalities into account. Third, replacing original MPI indicators in the health dimensions (child mortality and malnutrition) with Disability and Health Functioning would only be able to represent a rather uncommon form of deprivation instead of more common forms of health deprivation including malnutrition. Finally, examining poverty in the form of headcounts would not be enough to represent the depth, intensity, or distributional inequalities of poverty. 
 
 Future researches related to the study include to improve methods to better represent intra-household differences in multidimensional poverty assessment, to expand the scope of multidimensional measures, and to refine more accurate and representative indicators corresponding to the limitations at present. 
+
+
+
+Reference: 
+Salecker, L., Ahmadov, A., Karimli, L. (2020, May 19). Contrasting Monetary and Multidimensional Poverty Measures in a Low-Income Sub-Saharan African Country.
+https://link.springer.com/article/10.1007/s11205-020-02382-z
 
