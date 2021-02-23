@@ -21,6 +21,38 @@ Future researches related to the study include to improve methods to better repr
 
 ## Reference: 
 
-Salecker, L., Ahmadov, A., Karimli, L. (2020, May 19). Contrasting Monetary and Multidimensional Poverty Measures in a Low-Income Sub-Saharan African Country.
+Salecker, L., Ahmadov, A., Karimli, L. (2020, May 19). Contrasting Monetary and Multidimensional Poverty Measures in a Low-Income Sub-Saharan African Country. SpringerLink.
 https://link.springer.com/article/10.1007/s11205-020-02382-z
 
+
+
+
+
+
+
+
+
+
+
+
+# Source 2
+
+## A Distributional Analysis of Uni-and Multidimensional Poverty and Inequalities in Ethiopia
+ 
+## Authors: Mekonnen Bersisa & Almas Heshmati
+
+ 
+The research employed 2 rounds of Ethiopian Households’ Social economic Survey dataset both from rural and small towns in Ethiopia to analyze the unidimensional and multidimensional poverty assessment and inequalities based on different determinants in Ethiopia. For conventional unidimensional poverty assessment, the research used consumption expenditure to analyze the poverty status of households in Ethiopia. For multidimensional poverty assessment, the study constructs empirical analysis through 6 dimensions with 14 indicators. By using multiple correspondence analyses (MCA), the research computes the multidimensional index by estimating the determinants’ relative weights, so as to build an explanation on poverty distribution for various classes. 
+Finally, within the employment of the logit model, the study examines the determinants through both unidimensional and multidimensional poverty assessment, to obtain a deeper understanding about the effects of each determinant from the two measures. 
+ 
+The analysis of the data collected is comprehensive since it divides the explanation into descriptive statistics’ results of major variables, extent of poverty using FGT and Multidimensional Poverty Indices, and Determinants of Unidimensional and Multidimensional Poverty. Descriptive statistics presents that due to the variations among households about different parts of consumption expenditure through standard deviation, there would be a large probability of significant inequality, which has a strong relationship between gender and the headship of the household: distribution of consumption expenditure varied enormously over time, region, and gender. Empirical results through FGT could further strengthen the conclusion about inequality. The distributional patterns of cumulative poverty gap curves, FGT curves, consumption dominance curves, and Lorenz curve which presents the degree of income inequality all reveal the incredible degree of inequalities of different groups in Ethiopia over time and by the area of residence. Other than unidimensional poverty assessment, multidimensional index of poverty, which is estimated by 6 dimensions with 14 indicators, considers the non-income dimensions of households’ well-being: the non-income indicators present high levels of deprivation in indicators including health, education, housing, asset, ownership, facility and energy use which are important for multidimensional assessment.
+ 
+The study constructed in the article considers both unidimensional measure and multidimensional measure to take the strengths and weaknesses of both types of assessment into account. From the study, unlike the unidimensional measure, the multidimensional measure of poverty presents all the ways that poverty may manifest and illustrates the extent of deprivation as well. The results of the study show that a unidimensional approach understates the extent of poverty due to the fact that this method neglects non-monetary aspects. The study indicates that the extent of poverty based on multidimensional poverty assessment is so high that it requires corresponding policy interventions to reduce the rate; meanwhile inequalities among the multidimensional poverty were also considerably high both over time and across regions. For further implications, policymakers should consider various factors including regional variations, community realities, and households’ characteristics to reduce poverty. 
+ 
+ 
+
+
+## Reference: 
+
+Bersisa, M., Heshmati, A. (2021, February 2). A Distributional Analysis of Uni-and Multidimensional Poverty and Inequalities in Ethiopia. SpringerLink.
+https://link.springer.com/article/10.1007%2Fs11205-021-02606-w
