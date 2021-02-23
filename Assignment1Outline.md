@@ -1,16 +1,16 @@
-My Research Topic: 
+## My Research Topic: 
 
   Poverty assessment and analysis
 
 
 
-Focusing Region:
+## Focusing Region:
 
   Sub-Saharan Africa (perhaps)
   
 
 
-A brief overview of various poverty assessment methods: quantitative analysis, qualitative analysis, spatial analysis, and mixed methods
+## A brief overview of various poverty assessment methods: quantitative analysis, qualitative analysis, spatial analysis, and mixed methods
 
 
   Quantitative Analysis: establish criteria prior to analysis
@@ -33,7 +33,7 @@ A brief overview of various poverty assessment methods: quantitative analysis, q
       constitute a powerful tool for presenting data and for comparing different aspects of poverty
  
 
-The choice of a particular type of assessment methodology should be governed by the intended use of the information:
+## The choice of a particular type of assessment methodology should be governed by the intended use of the information:
       factors include: 
       (i) the concept and definition of poverty (e.g. normative/empirical, factual/potential, absolute/relative) 
       (ii) the scale of analysis (household, community, district, etc.)
