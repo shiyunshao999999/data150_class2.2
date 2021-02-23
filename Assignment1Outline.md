@@ -32,8 +32,7 @@
   Spatial assessments: based on quantitative data and are important for targeting purposes
       constitute a powerful tool for presenting data and for comparing different aspects of poverty
  
-
-## The choice of a particular type of assessment methodology should be governed by the intended use of the information:
+The choice of a particular type of assessment methodology should be governed by the intended use of the information:
       factors include: 
       (i) the concept and definition of poverty (e.g. normative/empirical, factual/potential, absolute/relative) 
       (ii) the scale of analysis (household, community, district, etc.)
