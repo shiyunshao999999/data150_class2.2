@@ -7,9 +7,8 @@
 
 # Source 1
 
-## Contrasting Monetary and Multidimensional Poverty Measures in a Low-Income Sub-Saharan African Country
+### Salecker, L., Ahmadov, A.K. & Karimli, L. Contrasting Monetary and Multidimensional Poverty Measures in a Low-Income Sub-Saharan African Country. Soc Indic Res 151, 547–574 (2020). https://doi.org/10.1007/s11205-020-02382-z
 
-## Authors: Lukas Salecker, Anar K.Ahmadov, Levla Karimli
 
 
 First, the article systematically compared the monetary and multidimensional poverty measures in Rwanda, in the context of low-income countries and Sub-Saharan Africa based on a theoretical and conceptual level, explaining the reasons that multidimensional poverty measures should at least supplement standard monetary measures. The article included the comparison cross-section and over-time and examined the overlaps and differences between the two measures. Second, the study that the article presented designed the research to construct and examine the multidimensional poverty index that allows capturing multiple country-specific dimensions of poverty, determining intra-dimensional and cross-dimensional poverty measures specific for Rwanda, so as to analyze the finding of the empirical studies to the theories. The studies investigated poverty rates based on different locations, communities, and individual factors. Third, employing the findings and arguments, the article extended implications for policymakers and future studies on poverty assessment. 
@@ -24,12 +23,6 @@ Future researches related to the study include to improve methods to better repr
 
 
 
-## Reference：
-
-Salecker, L., Ahmadov, A.K. & Karimli, L. Contrasting Monetary and Multidimensional Poverty Measures in a Low-Income Sub-Saharan African Country. Soc Indic Res 151, 547–574 (2020). 
-https://doi.org/10.1007/s11205-020-02382-z
-
-
 
 
 
@@ -37,9 +30,7 @@ https://doi.org/10.1007/s11205-020-02382-z
 
 # Source 2
 
-## A Distributional Analysis of Uni-and Multidimensional Poverty and Inequalities in Ethiopia
- 
-## Authors: Mekonnen Bersisa and Almas Heshmati
+### Bersisa, M., Heshmati, A. A Distributional Analysis of Uni-and Multidimensional Poverty and Inequalities in Ethiopia. Soc Indic Res (2021). https://doi.org/10.1007/s11205-021-02606-w
 
 
 The research employed two rounds of Ethiopian Households’ Social economic Survey dataset both from rural and small towns in Ethiopia to analyze the unidimensional and multidimensional poverty assessment and inequalities based on different determinants in Ethiopia. For conventional unidimensional poverty assessment, the research used consumption expenditure to analyze the poverty status of households in Ethiopia. For multidimensional poverty assessment, the study constructs empirical analysis through 6 dimensions with 14 indicators. By using multiple correspondence analyses (MCA), the research computes the multidimensional index by estimating the determinants’ relative weights, so as to build an explanation on poverty distribution for various classes. 
@@ -51,11 +42,6 @@ The study constructed in the article considers both unidimensional measure and m
 
 
 
-## Reference: 
-
-Bersisa, M., Heshmati, A. A Distributional Analysis of Uni-and Multidimensional Poverty and Inequalities in Ethiopia. Soc Indic Res (2021). 
-https://doi.org/10.1007/s11205-021-02606-w
-
 
 
 
@@ -64,9 +50,7 @@ https://doi.org/10.1007/s11205-021-02606-w
 
 # Source 3
 
-## A Logistic Regression Model to Identify Key Determinants of Poverty Using Demographic and Health Survey Data
-
-## Authors: Thomas N O Achia, Anne Wangombe, Nancy Khadioli
+### Thomas N O Achia, Anne Wangombe and Nancy Khadioli (2010). A Logistic Regression Model to Identify Key Determinants of Poverty Using Demographic and Health Survey Data. European Journal of Social Sciences – Volume 13, Number 1 (2010). http://erepository.uonbi.ac.ke/handle/11295/38629
 
 
 While the primary number of studies done on poverty determinants rely on the income, expenditure and consumption data, the data used in this study comes from the Demographic and Health Surveys (DHS), which covered both rural and urban populations, and collected information relating to demographic and detailed information on asset ownership, access to public services and housing characteristics. The study in the article constructed an asset index, which presented the social economic status of each household, through Principal Component Analysis (PCA) based on the asset ownership variables in the 2003 Kenya Demographic and Health Survey and employed logistic regression with the SES (poor and non-poor) as the dependent variable to identify key determinants of poverty in Kenya. 
@@ -81,10 +65,7 @@ The limitations of the study on asset-based measures of poverty could be conclud
 
 
 
-## Reference: 
 
-Thomas N O Achia, Anne Wangombe and Nancy Khadioli (2010). A Logistic Regression Model to Identify Key Determinants of Poverty Using Demographic and Health Survey Data. European Journal of Social Sciences – Volume 13, Number 1 (2010)
-http://erepository.uonbi.ac.ke/handle/11295/38629
 
 
 
@@ -94,9 +75,7 @@ http://erepository.uonbi.ac.ke/handle/11295/38629
 
 # Source 4
 
-## Measured as poor versus feeling poor Comparing objective and subjective poverty rates in South Africa
-
-## Authors: Dorrit Posel and Michael Rogan
+### Posel, D., & Rogan, M. (2014). Measured as poor versus feeling poor: Comparing money-metric and subjective poverty rates in South Africa. WIDER Working Paper 2014/133. Helsinki: World Institute for Development Economics Research- United Nations University. https://doi.org/10.35188/UNU-WIDER/2014/854-4
 
 
 The article showed an alternative way of measuring poverty: the subjective assessments from respondents’ personal evaluation of the economic well-being of their household. Subjective poverty studies have been largely absent in the research on poverty evaluation of the South African area since the national household surveys that are used to measure money-metric poverty have not collected information on subjective economic well-being in most cases. 
@@ -109,10 +88,7 @@ The conclusion of the study includes both overlaps and mismatches between the re
 
 
 
-## Reference: 
 
-Posel, D., & Rogan, M. (2014). Measured as poor versus feeling poor: Comparing money-metric and subjective poverty rates in South Africa. WIDER Working Paper 2014/133. Helsinki: World Institute for Development Economics Research- United Nations University.
-https://doi.org/10.35188/UNU-WIDER/2014/854-4
 
 
 
