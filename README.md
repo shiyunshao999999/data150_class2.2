@@ -10,6 +10,8 @@
 
 4. [Assignment1 Outline](https://shiyunshao999999.github.io/data150_class2.2/Assignment1Outline.html)
 
+5. [Big Data](https://shiyunshao999999.github.io/data150_class2.2/Bigdata.html)
+
 ## Formal Exercises
 
 1. [Assignment 1: Annotated Bibliography](https://shiyunshao999999.github.io/data150_class2.2/Assignment1.html)
