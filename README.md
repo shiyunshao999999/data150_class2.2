@@ -17,3 +17,5 @@
 ## Formal Exercises
 
 1. [Assignment 1: Annotated Bibliography](https://shiyunshao999999.github.io/data150_class2.2/Assignment1.html)
+
+2. [Assignment 2: Literature Review](https://shiyunshao999999.github.io/data150_class2.2/Assignment2.html)
