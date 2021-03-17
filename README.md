@@ -8,11 +8,13 @@
 
 3. [Development as Freedom Responses](https://shiyunshao999999.github.io/data150_class2.2/DevelopmentasFreedom.html)
 
-4. [Assignment1 Outline](https://shiyunshao999999.github.io/data150_class2.2/Assignment1Outline.html)
+4. [Big Data Responses](https://shiyunshao999999.github.io/data150_class2.2/Bigdata.html)
 
-5. [Big Data Responses](https://shiyunshao999999.github.io/data150_class2.2/Bigdata.html)
+5. [Development and Complexity Responses](https://shiyunshao999999.github.io/data150_class2.2/DevelopmentandComplexity.html)
 
-5. [Assignment2 Outline](https://shiyunshao999999.github.io/data150_class2.2/Assignment2Outline.html)
+6. [Assignment1 Outline](https://shiyunshao999999.github.io/data150_class2.2/Assignment1Outline.html)
+
+7. [Assignment2 Outline](https://shiyunshao999999.github.io/data150_class2.2/Assignment2Outline.html)
 
 ## Formal Exercises
 
