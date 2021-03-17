@@ -96,6 +96,7 @@ Norman Borlaug was the man who set up the Green Revolution by intervening in the
 The recommendation to promote innovation from people on the right encourages entrepreneurs with protection of rights like property rights and ownership of assets to keep government bureaucracy out of the system. From people on the left, promoting innovation means more equal societies that are less susceptible to capture, leading the progress of firms and industries. 
 
 The recommendation to embrace creative destruction from people on the right emphasize the need for open and competitive markets that reward success and punish failure. From people on the left, any concentration of wealth and power which may be an obstacle to change should be prevented. 
+
 The recommendation to shape development from people on the right tends to focus on the need for innovation and accelerate evolution instead of the need of shaping the direction, while people on the left tend to focus on the need to determine the destination and direction instead of creativity and dynamics of the evolutionary process. 
  
  
