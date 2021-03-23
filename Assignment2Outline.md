@@ -1,4 +1,4 @@
-# Topic: Compare conventional poverty assessment based on census data and innovative poverty assessment without the abundance of census data
+# Topic: Compare conventional poverty assessment based on census data and innovative poverty assessment lack of census data
 
 ## Abstract
 
