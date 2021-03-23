@@ -1,20 +1,20 @@
 # Topic: Compare conventional poverty assessment based on census data and innovative poverty assessment lack of census data
 
-## Abstract
+## 1. Abstract
 
-## Introduction
+## 2. Introduction
 
-## Traditional poverty measurements based on census surveys
-### Monetary poverty assessment
-### Multidimensional poverty assessment
-Logistic regression model
-### Subjective poverty assessment
+## 3. Traditional poverty measurements based on census surveys
+### 1) Monetary poverty assessment
+### 2) Multidimensional poverty assessment
+e.g. Logistic regression model
+### 3) Subjective poverty assessment
 
-## Innovative poverty measurements with the lack of data-base
+## 4. Innovative poverty measurements with the lack of data-base
 	
-## Compare the similarities and differences between the two methodologies
+## 5. Compare the similarities and differences between the two methodologies
 
-## Reflections on the gaps in the research
+## 6. Reflections on the gaps in the research
 
-## Conclusion
+## 7. Conclusion
 
