@@ -5,10 +5,10 @@
 ## Introduction
 
 ## Traditional poverty measurements based on census surveys
-Monetary poverty assessment
-Multidimensional poverty assessment
-	Logistic regression model
-Subjective poverty assessment
+### Monetary poverty assessment
+### Multidimensional poverty assessment
+Logistic regression model
+### Subjective poverty assessment
 
 ## Innovative poverty measurements with the lack of data-base
 	
