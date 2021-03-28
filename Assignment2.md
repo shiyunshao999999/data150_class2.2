@@ -1,10 +1,10 @@
 # Title: Compare conventional uni- or multidimensional poverty assessment with census-base and innovative geospatial techniques and high-resolution imagery methodologies without census-base to estimate poverty in Sub-Saharan Africa
-### Name: Shiyun (Sunny) Shao
-### Word Count: 2661
+## Name: Shiyun (Sunny) Shao
+## Word Count: 2661
 
 
 
-## Introduction
+# Introduction
  
 Poverty is one of the most important issues in human development: the state or condition in which a person or community lacks the financial resources and essentials for a minimum standard of living so that the basic human needs cannot be met is the foundation to development. Basic freedom to satisfy basic needs like food, water, and clothing are restricted in this case so that further development on account of expanding substantive freedom would not be achieved. Different poverty assessments based on different focuses, variables, and indicators would employ diverse types of models to estimate poverty, leading to various policy actions and results to social development. Thus, within the comparative analysis between poverty assessments, limitations and advantages of the measurements are revealed so that scientists could build further improvements and applications in future research. 
  
@@ -12,7 +12,7 @@ The reason to select the region to be Sub-Saharan Africa is actually from Hans R
  
  
  
-## Conventional poverty measurements based on census surveys 
+# Conventional poverty measurements based on census surveys 
  
 Conventional poverty measurements in the research include unidimensional and multidimensional assessment. Unidimensional money-metric measure considers only the income or expenditure insufficiency into the assessment of poverty. Although broaden aspects of development and attainment of human rights are included to define poverty in recent years, in most cases poverty reduction approaches are still based on income poverty conception by unidimensional poverty assessment, measured in terms of the number of people subsisting on less than the poverty line with n dollar per day. However, the economic system is a complex adaptive system that a single indicator could never be sufficient to explain the whole development process deeply and comprehensively. 
  
@@ -26,7 +26,7 @@ Based on the research analysis, exclusively using unidimensional measurement, wh
  
  
  
-## Innovative poverty measurements due to data-deprivation
+# Innovative poverty measurements due to data-deprivation
  
 In the article Estimation of Poverty in Somalia Using Innovative Methodologies, the challenges to assess poverty due to the absence of census surveys were overcome in wave two of the Somalia High Frequency Survey (SHFS) through methodological and technological adaptations within the employment of geospatial techniques and high-resolution imagery. The innovative methodology relies on satellite imagery and grid cells to model the spatial population distribution, build a probability‐based population sampling frame, and generate enumeration areas to estimate poverty in areas that remained completely inaccessible as a result mainly of insecurity. 
  
@@ -37,7 +37,7 @@ Within the base of highly advanced methodologies like Random Forest for populati
 In the field of innovative geospatial techniques and high-resolution satellite imagery methodologies, further improvements on higher quality of the data should be considered to minimize disruptions and biases from human resource capacity. Future applications should consider refining the model to predict poverty from satellite imagery to improve the estimates by incorporating predictors with higher spatial frequencies. 
  
  
-## Compare the similarities and differences between the two methodologies
+# Compare the similarities and differences between the two methodologies
  
 First, in a data-deprived region, conventional unidimensional or multidimensional measurements of economic well-being cannot be employed due to the lack of abundant census survey data to be employed, while innovative geospatial techniques based on high-resolution satellite imagery have no inhibition to be used in assessment. Conventional poverty assessments are fundamental inputs into both research and policy, but such measures are unavailable at a local level in most of the Sub-Saharan Africa region. However, satellite-based geospatial methodologies used to measure poverty are both accurate and scalable, and consistent performance on held-out countries suggests that it could be used to generate wealth estimates in countries where data are unavailable. Models built from high-resolution satellite imagery can explain 70% of the variation in ground-measured village wealth in countries; compared with conventional poverty measurements from censuses, errors in satellite estimates are comparable to errors in existing ground data. Satellite-based estimates can also explain up to 50% of the variation in district-aggregated changes in wealth over time. Stevens et al (2015) explained that as more census data become available for single or multiple countries within a region, we can further refine innovative Random Forest predictions by sampling from and combining trees and forests which may yield better prediction accuracies than using a single RF model parameterized based on coarse-scale census data. The poverty estimation on satellite-based methodologies and the scalability by creating a wealth map in the Sub-Saharan area to a comprehensive level indicate the accuracy and comprehensiveness of the measurement, indicating their help for research and policy. 
  
@@ -47,20 +47,20 @@ Third, the inconsistency to collect census data causes the outdatedness of censu
  
  
  
-## Reflections on the gaps in the research
+# Reflections on the gaps in the research
  
 For Sub-Saharan African region that are unable to conduct conventional census-based poverty measures, research employed innovative satellite-based geospatial and high-resolution imagery methods combined semi-automated estimation on widely available, remotely-sensed, and geospatial datasets ancillary datasets with micro-census datasets available in these regions. For countries that have abundant census data to conduct conventional poverty assessments, research on poverty assessment employed more census-based methods than innovative satellite-based geospatial methods. The research illustrates the idea that conventional poverty assessments are still fundamental and essential with the base of census data due to the long-term utilization and improvement; innovative methods represented by the Random Forest Approach have the useful features to generate better prediction accuracies and higher prediction flexibilities within the increasing amount of available census data for single or multiple countries within a region. Although the studies build comparison between conventional and innovative measures, and indicate the benefits as well as insufficiencies of both methods, none of them clarified the best respective proportion recommended to employ census-based and innovative methodologies under the respective circumstances of different regions. Therefore, the literature gap appeared in the research, leading to my research question on the methodological system to balance the application of conventional micro-census measures and innovative geospatial measures to increase accuracy and flexibility in poverty assessment not only in the Sub-Saharan African countries without census abundance, but also in other countries in different regions with census available. 
  
  
  
-## Conclusion
+# Conclusion
  
 There is no consensus on the best poverty assessment measure. However, a suitable measure should satisfy specific local context and conditions. My literature review is constructed in four parts. Firstly, I illustrated the conventional poverty measurements that include unidimensional and multidimensional assessment, comparing the two types of assessments with the common base on census data. Secondly, I explained the methodologies of the innovative geospatial techniques and high-resolution satellite measurements. Then, by comparing the census-based measures and innovative measures without the sufficiency of census, I concluded the similarities and differences between the two methodologies. Finally, based on the gaps I discovered in the research, I developed my subsequent critical research question on the balance to employ conventional methods and innovative methods. 
 
 
 
 
-## Reference
+# Reference
 
 1.	Bersisa, M., Heshmati, A. (2021). A Distributional Analysis of Uni-and Multidimensional Poverty and Inequalities in Ethiopia. Soc Indic Res (2021). https://doi.org/10.1007/s11205-021-02606-w
 
