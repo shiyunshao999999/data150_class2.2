@@ -1,6 +1,6 @@
 # Title: Compare conventional uni- or multidimensional poverty assessment with census-base and innovative geospatial techniques and high-resolution imagery methodologies without census-base to estimate poverty in Sub-Saharan Africa
 ## Name: Shiyun (Sunny) Shao
-## Word Count: 2661
+## Word Count: 2714
 
 
 
