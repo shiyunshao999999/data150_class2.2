@@ -53,7 +53,7 @@ For Sub-Saharan African region that are unable to conduct conventional census-ba
  
  
  
-# Conclusion
+## Conclusion
  
 There is no consensus on the best poverty assessment measure. However, a suitable measure should satisfy specific local context and conditions. My literature review is constructed in four parts. Firstly, I illustrated the conventional poverty measurements that include unidimensional and multidimensional assessment, comparing the two types of assessments with the common base on census data. Secondly, I explained the methodologies of the innovative geospatial techniques and high-resolution satellite measurements. Then, by comparing the census-based measures and innovative measures without the sufficiency of census, I concluded the similarities and differences between the two methodologies. Finally, based on the gaps I discovered in the research, I developed my subsequent critical research question on the balance to employ conventional methods and innovative methods. 
 
