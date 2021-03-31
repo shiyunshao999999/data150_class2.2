@@ -12,9 +12,11 @@
 
 5. [Development and Complexity Responses](https://shiyunshao999999.github.io/data150_class2.2/DevelopmentandComplexity.html)
 
-6. [Assignment1 Outline](https://shiyunshao999999.github.io/data150_class2.2/Assignment1Outline.html)
+6. [Assignment3 Introduction](https://shiyunshao999999.github.io/data150_class2.2/Assignment3Intro.html)
 
-7. [Assignment2 Outline](https://shiyunshao999999.github.io/data150_class2.2/Assignment2Outline.html)
+7. [Assignment1 Outline](https://shiyunshao999999.github.io/data150_class2.2/Assignment1Outline.html)
+
+8. [Assignment2 Outline](https://shiyunshao999999.github.io/data150_class2.2/Assignment2Outline.html)
 
 ## Formal Exercises
 
