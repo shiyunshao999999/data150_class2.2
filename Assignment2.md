@@ -62,28 +62,28 @@ There is no consensus on the best poverty assessment measure. However, a suitabl
 
 ## Reference
 
-1.	Bersisa, M. & Heshmati, A. (2021). A Distributional Analysis of Uni-and Multidimensional Poverty and Inequalities in Ethiopia. Soc Indic Res (2021). https://doi.org/10.1007/s11205-021-02606-w
+Bersisa, M. & Heshmati, A. (2021). A Distributional Analysis of Uni-and Multidimensional Poverty and Inequalities in Ethiopia. Soc Indic Res (2021). https://doi.org/10.1007/s11205-021-02606-w
 
-2.	Batana, Y. (2008). “Multidimensional Measurement of Poverty in Sub-Saharan Africa.” OPHI Working Paper 13, University of Oxford. https://ideas.repec.org/p/qeh/ophiwp/ophiwp013.html
+Batana, Y. (2008). “Multidimensional Measurement of Poverty in Sub-Saharan Africa.” OPHI Working Paper 13, University of Oxford. https://ideas.repec.org/p/qeh/ophiwp/ophiwp013.html
 
-3.	Ikande, M. (2017). 9 most important reasons for population census delay in Nigeria. Retrieved March 28, 2021, from https://www.legit.ng/1133808-problems-population-census-nigeria.html
+Ikande, M. (2017). 9 most important reasons for population census delay in Nigeria. Retrieved March 28, 2021, from https://www.legit.ng/1133808-problems-population-census-nigeria.html
 
-4.	Posel, D., & Rogan, M. (2014). Measured as poor versus feeling poor: Comparing money-metric and subjective poverty rates in South Africa. WIDER Working Paper 2014/133. Helsinki: World Institute for Development Economics Research- United Nations University.
+Posel, D., & Rogan, M. (2014). Measured as poor versus feeling poor: Comparing money-metric and subjective poverty rates in South Africa. WIDER Working Paper 2014/133. Helsinki: World Institute for Development Economics Research- United Nations University.
 https://doi.org/10.35188/UNU-WIDER/2014/854-4
 
-5.	“Pape, Utz; Wollburg, Philip. 2019. Estimation of Poverty in Somalia Using Innovative Methodologies. Policy Research Working Paper;No. 8735. World Bank, Washington, DC. © World Bank. https://openknowledge.worldbank.org/handle/10986/31267 License: CC BY 3.0 IGO.”
+“Pape, Utz; Wollburg, Philip. 2019. Estimation of Poverty in Somalia Using Innovative Methodologies. Policy Research Working Paper;No. 8735. World Bank, Washington, DC. © World Bank. https://openknowledge.worldbank.org/handle/10986/31267 License: CC BY 3.0 IGO.”
 http://hdl.handle.net/10986/31267
 
-6.	Stevens FR, Gaughan AE, Linard C, Tatem AJ (2015) Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data. PLoS ONE 10 (2): e0107042. 
+Stevens FR, Gaughan AE, Linard C, Tatem AJ (2015) Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data. PLoS ONE 10 (2): e0107042. 
 doi:10.1371/journal.pone.0107042
 
-7.	Salecker, L., Ahmadov, A.K. & Karimli, L. (2020). Contrasting Monetary and Multidimensional Poverty Measures in a Low-Income Sub-Saharan African Country. Soc Indic Res 151, 547–574 (2020). 
+Salecker, L., Ahmadov, A.K. & Karimli, L. (2020). Contrasting Monetary and Multidimensional Poverty Measures in a Low-Income Sub-Saharan African Country. Soc Indic Res 151, 547–574 (2020). 
 https://doi.org/10.1007/s11205-020-02382-z
 
-8.	Achia, T., Wangombe, A. & Khadioli, N. (2010). A Logistic Regression Model to Identify Key Determinants of Poverty Using Demographic and Health Survey Data. European Journal of Social Sciences – Volume 13, Number 1 (2010)
+Achia, T., Wangombe, A. & Khadioli, N. (2010). A Logistic Regression Model to Identify Key Determinants of Poverty Using Demographic and Health Survey Data. European Journal of Social Sciences – Volume 13, Number 1 (2010)
 http://erepository.uonbi.ac.ke/handle/11295/38629
 
-9.	Watete, P., Makau, W., Njoka, J., MacOpiyo, L., & Wasonga, O. (2016). MOVING IN AND OUT OF POVERTY: A CASE OF THE SOMALI AND TURKANA OF NORTHERN KENYA. Nomadic Peoples, 20(1), 123-140. Retrieved March 24, 2021, from http://www.jstor.org/stable/24772868
+Watete, P., Makau, W., Njoka, J., MacOpiyo, L., & Wasonga, O. (2016). MOVING IN AND OUT OF POVERTY: A CASE OF THE SOMALI AND TURKANA OF NORTHERN KENYA. Nomadic Peoples, 20(1), 123-140. Retrieved March 24, 2021, from http://www.jstor.org/stable/24772868
 
-10.	Yeh, C., Perez, A., Driscoll, A. et al. (2020). Using publicly available satellite imagery and deep learning to understand economic well-being in Africa. Nat Commun 11, 2583 (2020). https://doi.org/10.1038/s41467-020-16185-w
+Yeh, C., Perez, A., Driscoll, A. et al. (2020). Using publicly available satellite imagery and deep learning to understand economic well-being in Africa. Nat Commun 11, 2583 (2020). https://doi.org/10.1038/s41467-020-16185-w
 
