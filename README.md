@@ -18,8 +18,12 @@
 
 8. [Assignment 2 Outline](https://shiyunshao999999.github.io/data150_class2.2/Assignment2Outline.html)
 
+9. [Assignment 3 Outline](https://shiyunshao999999.github.io/data150_class2.2/Assignment3Outline.html)
+
 ## Formal Exercises
 
 1. [Assignment 1: Annotated Bibliography](https://shiyunshao999999.github.io/data150_class2.2/Assignment1.html)
 
 2. [Assignment 2: Literature Review](https://shiyunshao999999.github.io/data150_class2.2/Assignment2.html)
+
+3. [Assignment 3: Data Science Methods](https://shiyunshao999999.github.io/data150_class2.2/Assignment3.html)
