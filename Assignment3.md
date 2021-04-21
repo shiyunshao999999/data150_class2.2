@@ -2,10 +2,6 @@
 
 ## Name: Shiyun (Sunny) Shao
 ## Word Count:  
-
-
-
-
 ## Introduction
 
 Poverty is one of the most important issues in human development: the state or condition in which a person or community lacks the financial resources and essentials for a minimum standard of living so that the basic human needs cannot be met is the foundation to development. Basic freedom to satisfy basic needs like food, water, and clothing are restricted in this case so that further development on account of expanding substantive freedom would not be achieved. Poverty in Sub-Saharan Africa is particularly related to the epidemics of disease including malaria, cholera, Aids, and high infant death rates, and a lowering of the overall living standards, which is partly due to the inept leadership of a number of governance institutions: the long-term running strategies suit the best interest of powerful elites, so that African American countries’ institutions are not an externally-provide factor of production like labor or capital but an internally generated result of the country’s policies. The long-lasting unsolved feature of the internally generated problem that involves rich interaction between a large number of adaptive agents that are co-evolving indicates the inherent and complex nature of poverty issue in Sub-Saharan Africa.
