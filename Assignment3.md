@@ -1,9 +1,8 @@
 # Title: 
 
 ## Name: Shiyun (Sunny) Shao
-## Word Count: 
+## Word Count:  
 
-"<br\>"
 
 
 
