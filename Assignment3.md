@@ -23,7 +23,8 @@ Decision trees are predictive models that use a set of binary rules to calculate
 ![3](https://user-images.githubusercontent.com/78276966/115510181-fea3f080-a2b1-11eb-8bbe-548e82d9a495.png)
  (Okiabera, 2020)
 
-Every tree provides a repeated partitioning of the subset of the data used to train the algorithm. Once a subset that is less heterogenous is reached, a classification is made. The predictor used in the final decision tree is one that has less heterogeneity. The Entropy of Heterogeneity or homogeneity in the whole classification problem, denoted by E, is measured as: ![113](https://user-images.githubusercontent.com/78276966/115956209-14254e80-a52e-11eb-95fd-f3b3a8ae0545.png), where p = the proportion of an event of interest. 
+Every tree provides a repeated partitioning of the subset of the data used to train the algorithm. Once a subset that is less heterogenous is reached, a classification is made. The predictor used in the final decision tree is one that has less heterogeneity. The Entropy of Heterogeneity or homogeneity in the whole classification problem, denoted by E, is measured as: 
+![113](https://user-images.githubusercontent.com/78276966/115956209-14254e80-a52e-11eb-95fd-f3b3a8ae0545.png), where p = the proportion of an event of interest. 
 
 
 ### 1.2	Decision Trees with Satellite Images 
