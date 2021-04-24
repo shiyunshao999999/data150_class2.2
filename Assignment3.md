@@ -14,22 +14,26 @@ Different poverty assessments based on different focuses, variables, and indicat
 ## 1.	Brief Description to the Random Forests Method
 
 Random Forests models are an ensemble, nonparametric modeling approach that grows a “forest” of individual classification or regression trees and improves upon bagging by using the best of a random selection of predictors at each node in each tree (Stevens et al., 2015). RF consists of a number of decision trees; each tree contains a number of decision nodes. In each node of a decision tree, data are split according to how well a variable can predict poverty (Sohnesen, 2016). Leo Breiman is the first to formally introduce the random forests after the bagging method (RF draws random subsets of features for training the individual trees, while bagging provides each tree with the full set of features), which is a combination of models aiming at classification accuracy (Yiu, 2019). The ﬁnal RF predictor is formed by taking the average over all trees. The samples that are not used to grow the tree are called Out-Of-Bag (OOB) data. To estimate the model accuracy, RF gives an error of estimate called the OOB error by calculating the difference in the mean square errors between the OOB data and the data used to grow the regression trees (Horning, 2010): 
+
 ![OOB](https://user-images.githubusercontent.com/78276966/115969950-1e693c00-a572-11eb-9cc6-7877ea623335.png) (Li et al., 2018), where yi was response variables from OOB, yi_hat was predicted value of the RF model, σy^2_hat was variance of predicted values, and m is the number of OOB samples. 
 
 
 ### 1.1	Decision Trees with Census Based Data
 
 Decision trees are predictive models that use a set of binary rules to calculate a target value. Two types of decision trees are classification trees and regression trees. 
+
 ![3](https://user-images.githubusercontent.com/78276966/115510181-fea3f080-a2b1-11eb-8bbe-548e82d9a495.png)
  (Okiabera, 2020)
 
 Every tree provides a repeated partitioning of the subset of the data used to train the algorithm. Once a subset that is less heterogenous is reached, a classification is made. The predictor used in the final decision tree is one that has less heterogeneity. The Entropy of Heterogeneity or homogeneity in the whole classification problem, denoted by E, is measured as: 
+
 ![113](https://user-images.githubusercontent.com/78276966/115956209-14254e80-a52e-11eb-95fd-f3b3a8ae0545.png), where p = the proportion of an event of interest. 
 
 
 ### 1.2	Decision Trees with Satellite Images 
 
 Decision trees are used to create categorical data sets such as land cover classification and regression trees are used to create continuous data sets such as biomass and percent tree cover. 
+
 ![120](https://user-images.githubusercontent.com/78276966/115956263-73835e80-a52e-11eb-8a44-c17db06eeaf2.png)
 Figure 1: A classification tree and the resulting land cover map (Horning, 2010)
 
@@ -49,14 +53,13 @@ When several predictor variables are used the tree and the resulting partitionin
 The steps to construct the tress for the random forests could be concluded to three. First, for each b = 1, …, B, a random sample of observations, n is drawn from the training data set, and subsequent bootstrap samples for other trees are taken (Okiabera, 2020). Second, a subset of m variables much less than the total number of variables in the dataset in addition to the bootstrap samples is randomly selected. At the same time, with the use of the Gini score, the best split is determined. Third, the out-of-bag (OOB) prediction is obtained through a majority vote across trees whose observation was not included in the bootstrap sample (Thoplan, 2014). The steps for classification trees are repeated until terminal node size is reached. The final set is then assigned a class in the case of poor or rich, or in the presence of more levels of the outcome variable including poorest, poorer, middle, richer, and richest, which is based on a majority vote; the proportion which has majority of observations in that set (Okiabera, 2020).
 
 ![1](https://user-images.githubusercontent.com/78276966/115510175-fba90000-a2b1-11eb-829d-0096d4f45bc7.jpg)
-![2](https://user-images.githubusercontent.com/78276966/115510177-fd72c380-a2b1-11eb-9317-810b0109b8ce.jpg)
 
+![2](https://user-images.githubusercontent.com/78276966/115510177-fd72c380-a2b1-11eb-9317-810b0109b8ce.jpg)
 (Okiabera, 2020)
 
 The output that the ensemble of decision trees made are denoted by TbB; the class predicted by the bth tree is denoted by Cˆb(x); the prediction is calculated by: 
 
 ![4](https://user-images.githubusercontent.com/78276966/115510184-006db400-a2b2-11eb-9330-30d951ac32ca.png)
-
 (Okiabera, 2020), while a majority vote means that from a set of decision trees in the random forest, the mostly voted class is the final classification; 
 
 the regression is calculated by:  
@@ -66,7 +69,6 @@ the regression is calculated by:
 To achieve the effect of the RF feature that provides a ranking of variable importance, evaluation of the importance of a variable should be calculated through a Mean Decrease Impurity. The variable with the largest decrease in impurity will be considered as the most important variable. This can be achieved through the Mean Decrease Gini (MDG) or the Mean Decrease Accuracy (MDA). The article Random Forests for Poverty Classification (Thoplan, 2014) mainly focused on the MDG as a measure of variable importance. The calculation of the mean decrease impurity measure is defined as: 
 
 ![6](https://user-images.githubusercontent.com/78276966/115510199-0368a480-a2b2-11eb-8035-c5bd3a9c20d0.png)
-
 where Xm represents the mth variable, NT is the number of trees in the forest, v(St) is the variable at split St, p(t) is the proportion of records at node t out of the total number of records in the data, and ![7](https://user-images.githubusercontent.com/78276966/115510206-0499d180-a2b2-11eb-9637-be887e83a1b8.png) in which pL represents the number of records in the left child node of t out of the total number of records at node t, while the impurity measure i(t) is the Gini index, which is used to determine the branching of the decision trees right from the root nodes to the child nodes, and is represented as the following function for a node t: ![8](https://user-images.githubusercontent.com/78276966/115510212-05326800-a2b2-11eb-8c93-8bec9520d0c9.png)
 with j = 1, 2 to represent poverty class. 
 
@@ -74,6 +76,7 @@ In Okiabera’s article, the dataset to analyze the critical determinants of pov
 
 
 ### 2.1 The Random Forests Algorithm with the Use of Remote Sensing and Geospatial Data
+
 ![111](https://user-images.githubusercontent.com/78276966/115956405-1340ec80-a52f-11eb-86e2-8139bb672f47.png)
 
 In the field of poverty and population mapping, two forms of data are generally used: remote sensing data like satellite imagery, land cover, nighttime light and geospatial data like road networks, population densities, built up area (Stevens et al., 2015). The point of interest data has demonstrated promising results in recent studies, indicating that it is a valuable asset in population or poverty mapping. A POI is an item of particular interest to some individual, on a map represented by a point, which include schools, hospitals and government buildings. In Kouwenhoven’s study, land use data from MODIS was selected as the category remote sensing data, while satellite data was used indirectly, since the land use data published by MODIS is based on satellite imagery. OpenStreetMap (OSM) was used as the source of POI data, allowing any internet user around the world to add information related to familiar localities (Kouwenhoven, 2019). In the study by Stevens et al., population distribution is often highly correlated with land cover types. They incorporate land cover information using one of two thematic land cover classification data sets. The GeoCover dataset provides consistent global mapping of 13 land cover classes at a 30-meter spatial resolution. GlobCover data, which are derived from the ENVISAT satellite mission's MERIS (Medium Resolution Image Spectrometer) imagery, were used for Kenya poverty assessment. 
@@ -96,6 +99,7 @@ Meanwhile, Restricting RF predictions to a limited set of variables also illustr
 ### 3.2 Research Result from Remote Sensing and Geospatial Data-based Poverty Assessment 
 
 The Random Forest model performs substantially better than several other commonly used, freely available approaches for dasymetric mapping at country-level scales. An assessment of which of the ancillary data covariates are important for accurately estimating population density at the census unit level is produced by the Random Forest algorithm. For Kenya, distance to health facility is by far the most important predictor for reducing the amount of variability. This indicates that this ancillary dataset is extremely valuable, even more than the distance-to-built land cover which is typically extremely important (Stevens et al., 2015).  
+
 ![114](https://user-images.githubusercontent.com/78276966/115956464-5bf8a580-a52f-11eb-992d-29e83014b7d2.png)
 
 The plot that reveals the relationship between the Observed census counts plotted from the finer census administrative units and the summed grid cell values from the population map estimated using coarser administrative units for Kenya shows that the RF methodology presents comparably accurate prediction for observed census values larger than zero. However, there may still be some refinement possible to better predict when census units include low or zero counts (Stevens et al. 2015).
