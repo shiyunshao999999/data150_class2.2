@@ -8,7 +8,7 @@ Poverty is one of the most important issues in human development: the state or c
 
 ## Problem Statement
 
-Different poverty assessments based on different focuses, variables, and indicators would employ diverse types of models to estimate poverty, leading to various policy actions and results to social development. Random Forests is part of the Machine Learning techniques, which has been applied for predictions in a wide range of research fields; however, the employment of RF in poverty prediction is uncommon. In fact, RF overcomes the drawbacks associated with single decision trees while maintaining its benefits. Research illustrates the idea that conventional poverty assessments with the base of census data (DHS) are still fundamental and essential (Bersisa & Heshmati, 2021); innovative high-resolution satellite methods represented by improved Random Forest Approach have the useful features of better prediction accuracies, higher prediction flexibilities, and fast speed. Although the studies build comparison between conventional and innovative measures, and indicate the benefits as well as insufficiencies of both methods, none of them clarified the best respective proportion recommended to employ census-based and innovative methodologies under the respective circumstances of different regions. Therefore, the literature gap appeared in the research, leading to my research question on the methodological system to balance the application of conventional micro-census measures and innovative geospatial measures to increase accuracy and flexibility in poverty assessment not only in the Sub-Saharan African countries without census abundance, but also in other countries in different regions with census available. 
+Different poverty assessments based on different focuses, variables, and indicators would employ diverse types of models to estimate poverty, leading to various policy actions and results to social development. Random Forests is part of the Machine Learning techniques, which has been applied for predictions in a wide range of research fields; however, the employment of RF in poverty prediction is uncommon. In fact, RF overcomes the drawbacks associated with single decision trees while maintaining its benefits. Research illustrates the idea that conventional poverty assessments with the base of census data (DHS) are still fundamental and essential (Bersisa & Heshmati, 2021); innovative high-resolution satellite methods represented by improved Random Forests Approach have the useful features of better prediction accuracies, higher prediction flexibilities, and fast speed. Although the studies build comparison between conventional and innovative measures, and indicate the benefits as well as insufficiencies of both methods, none of them clarified the best respective proportion recommended to employ census-based and innovative methodologies under the respective circumstances of different regions. Therefore, the literature gap appeared in the research, leading to my research question on the methodological system to balance the application of conventional micro-census measures and innovative geospatial measures to increase accuracy and flexibility in poverty assessment not only in the Sub-Saharan African countries without census abundance, but also in other countries in different regions with census available. 
 
 
 ## 1.	Brief Description to the Random Forests Method
@@ -25,20 +25,20 @@ Decision trees are predictive models that use a set of binary rules to calculate
 ![3](https://user-images.githubusercontent.com/78276966/115510181-fea3f080-a2b1-11eb-8bbe-548e82d9a495.png)
  (Okiabera, 2020)
 
-Every tree provides a repeated partitioning of the subset of the data used to train the algorithm. Once a subset that is less heterogenous is reached, a classification is made. The predictor used in the final decision tree is one that has less heterogeneity. The Entropy of Heterogeneity or homogeneity in the whole classification problem, denoted by E, is measured as: 
+Every tree provides a repeated partitioning of the subset of the data used to train the algorithm. Once a subset that is less heterogenous is reached, a classification is made. The predictor used in the final decision tree is one that has less heterogeneity (Okiabera, 2020). The Entropy of Heterogeneity or homogeneity in the whole classification problem, denoted by E, is measured as: 
 
-![113](https://user-images.githubusercontent.com/78276966/115956209-14254e80-a52e-11eb-95fd-f3b3a8ae0545.png), where p = the proportion of an event of interest. 
+![113](https://user-images.githubusercontent.com/78276966/115956209-14254e80-a52e-11eb-95fd-f3b3a8ae0545.png) (Okiabera, 2020), where p = the proportion of an event of interest. 
 
 
 ### 1.2	Decision Trees with Satellite Images 
 
-Decision trees are used to create categorical data sets such as land cover classification and regression trees are used to create continuous data sets such as biomass and percent tree cover. 
+Decision trees are used to create categorical data sets such as land cover classification and regression trees are used to create continuous data sets such as biomass and percent tree cover. The tree is a set of binary decisions and terminal nodes connected by branches. The tree continues to grow until all branches end with terminal nodes (Horning, 2010). 
 
 ![120](https://user-images.githubusercontent.com/78276966/115956263-73835e80-a52e-11eb-8a44-c17db06eeaf2.png)
 Figure 1: A classification tree and the resulting land cover map (Horning, 2010)
 
 
-Figure 1 shows a decision tree and the resulting land cover map using the red (band 3) and near-infrared (band 4) bands from the Landsat Enhanced Thematic Mapper Plus satellite sensor as the predictor variables. The tree is a set of binary decisions and terminal nodes connected by branches. The top decision node (root node) evaluates the rule “is band 4 less than or equal to 46”. If it is then a terminal node is reached and that node is assigned to the class “water”. If band 4 is greater than 46 then another binary decision node is evaluated; “is band 3 less than or equal to 102”. The tree continues to grow until all branches end with terminal nodes (Horning, 2010). 
+Figure 1 shows a decision tree and the resulting land cover map using the red (band 3) and near-infrared (band 4) bands from the Landsat Enhanced Thematic Mapper Plus satellite sensor as the predictor variables. 
 
 ![121](https://user-images.githubusercontent.com/78276966/115956279-85650180-a52e-11eb-8491-240e64d758f2.png)
 (Horning, 2010)
@@ -91,7 +91,7 @@ The python-based sklearn library that provides a RandomForestRegressor package b
 (Kouwenhoven, 2019)
 
 ## 3.	Results
-### 3.1 Research Result from Census-based RF Poverty Assessment 
+### 3.1 Research Results from Census-based RF Poverty Assessment 
 
 The results (Okiabera, 2020) showed that variables had a very small percentage of missingness inside the model. There was elimination in error of the classifier as the trees in the classification was increased. By considering Mean Decrease in Gini, from high to low, the variables in descending order of importance are the highest education level attained, type of place of residence, region, age of household head, number of household members, marital status, and sex of the household head. The RF classification was improved on the poorest and richest classes (the extreme ends of the wealth index), while the middle, poorer and richer indices were not as accurately classified. RF builds a significant improvement among classical regression techniques: the multiclass classification issue was comprehensively considered inside the analysis, and the poverty status as the out-of-bag error is low overall when more trees are added in the forest (Thoplan, 2014). Although the model accuracy was presented as 47.73% in the first place, within the help of the confusion matrix for all classes with the calculation of Accuracy, Error rate, Specificity, and Sensitivity, researchers could then build a better understanding to the process of classification for each class (Okiabera, 2020). 
 
@@ -100,7 +100,7 @@ The results (Okiabera, 2020) showed that variables had a very small percentage o
 
 Meanwhile, Restricting RF predictions to a limited set of variables also illustrates a realistic setting in which poverty is tracked with smaller surveys that only collects data on a limited number of aspects. However, there is no loss of accuracy in predicting poverty using the restricted model with smaller number of variables compared to the full model without restrictions (the variations between the full and restricted models are small). Hence, the RF approach also predicts poverty accurately using only a small model, and can therefore be a real alternative for tracking of poverty with predictions (Stevens et al., 2015). 
 
-### 3.2 Research Result from Remote Sensing and Geospatial Data-based Poverty Assessment 
+### 3.2 Research Results from Remote Sensing and Geospatial Data-based Poverty Assessment 
 
 The Random Forest model performs substantially better than several other commonly used, freely available approaches for dasymetric mapping at country-level scales. An assessment of which of the ancillary data covariates are important for accurately estimating population density at the census unit level is produced by the Random Forest algorithm. For Kenya, distance to health facility is by far the most important predictor for reducing the amount of variability. This indicates that this ancillary dataset is extremely valuable, even more than the distance-to-built land cover which is typically extremely important (Stevens et al., 2015).  
 
@@ -120,7 +120,7 @@ The R^2 values of the traditional census-based RF model without the use of Googl
 In the absence of poverty survey data from Sub-Saharan Africa, remote sensing data and road maps that can reflect some of the environmental characteristics that are associated with poverty provides reliable data for poverty estimation. By integrating multi-source data like land cover map, OSM road map, and Google satellite imagery with the RF model at 5km x 5km resolution, we are able to identify variables representing poverty dimensions of POI and geospatial categories. Following a vigorous variable selection procedure with RF algorithm, variables were selected to offer the best predictive ability, iterating the training of the RF model. With the accuracy confirmation procedure, the improved RF model presents a high overall accuracy of poverty estimation. Compared with the conventional census-based RF model with an average R^2 of 0.66, innovative RF model with high-resolution satellite images database provided higher accuracy rate to poverty assessment. 
 
 
-## Reflections on Literature Gaps
+## Reflections on the Literature Gap
 
 Although the studies build comparison between conventional and innovative measures, and indicate the benefits as well as insufficiencies of both methods, none of them clarified the best respective proportion recommended to employ census-based and innovative methodologies under the respective circumstances of different regions. Therefore, the literature gap appeared in the research, leading to my research question on the methodological system to balance the application of conventional RF method with census data and innovative RF method with high-resolution satellite images not only in the Sub-Saharan African poverty assessment without census abundance, but also in other regions with census available.
 
