@@ -10,10 +10,8 @@ Poverty is one of the most important issues in human development: the state or c
 
 Research illustrates the idea that conventional uni- or multidimensional poverty assessments represented by Demographic and Health Surveys methodology with the base of census data are still fundamental and essential due to the long-term utilization and improvement (Bersisa & Heshmati, 2021); innovative high-resolution satellite methods represented by Random Forest Approach have the useful features to generate better prediction accuracies and higher prediction flexibilities within the increasing amount of available census data for single or multiple countries within a region. Although the studies build comparison between conventional and innovative measures, and indicate the benefits as well as insufficiencies of both methods, none of them clarified the best respective proportion recommended to employ census-based and innovative methodologies under the respective circumstances of different regions. Therefore, the literature gap appeared in the research, leading to my research question on the methodological system to balance the application of conventional micro-census measures and innovative geospatial measures to increase accuracy and flexibility in poverty assessment not only in the Sub-Saharan African countries without census abundance, but also in other countries in different regions with census available.
 
-## Random Forests Classification and Regression
 
-
-### 1.	Brief Description to the Random Forests Method
+## 1.	Brief Description to the Random Forests Method
 
 Random Forests models are an ensemble, nonparametric modeling approach that grows a “forest” of individual classification or regression trees and improves upon bagging by using the best of a random selection of predictors at each node in each tree (Stevens et al., 2015). RF consists of a number of decision trees; each tree contains a number of decision nodes. In each node of a decision tree, data are split according to how well a variable can predict poverty (Sohnesen, 2016). Leo Breiman is the first to formally introduce the random forests after the bagging method (RF draws random subsets of features for training the individual trees, while bagging provides each tree with the full set of features), which is a combination of models aiming at classification accuracy (Yiu, 2019). The ﬁnal RF predictor is formed by taking the average over all trees. The samples that are not used to grow the tree are called Out-Of-Bag (OOB) data. To estimate the model accuracy, RF gives an error of estimate called the OOB error by calculating the difference in the mean square errors between the OOB data and the data used to grow the regression trees (Horning, 2010). 
 
@@ -47,7 +45,7 @@ RF is part of the Machine Learning techniques, which has been applied for predic
 
 
 
-### 2.	Random Forests Algorithm in poverty assessment
+## 2.	Random Forests Algorithm in poverty assessment
 
 ### 2.1 Random Forests Algorithm with Census Data Base
 
@@ -91,7 +89,7 @@ Fitting of the model and estimation of the data were performed using the python-
 
 
 
-### 3.	Results
+## 3.	Results
 ### 3.1 Research Result from Census-based RF Poverty Assessment 
 
 The results (Okiabera, 2020) showed that variables had a very small percentage of missingness inside the model. There was elimination in error of the classifier as the trees in the classification was increased. By considering Mean Decrease in Gini, from high to low, the variables in descending order of importance are the highest education level attained, type of place of residence, region, age of household head, number of household members, marital status, and sex of the household head. The RF classification was improved on the poorest and richest classes (the extreme ends of the wealth index), while the middle, poorer and richer indices were not as accurately classified. RF builds a significant improvement among classical regression techniques: the multiclass classification issue was comprehensively considered inside the analysis, and the poverty status as the out-of-bag error is low overall when more trees are added in the forest (Thoplan, 2014). Although the model accuracy was presented as 47.73% in the first place, within the help of the confusion matrix for all classes with the calculation of Accuracy, Error rate, Specificity, and Sensitivity, researchers could then build a better understanding to the process of classification for each class (Okiabera, 2020). 
