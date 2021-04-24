@@ -1,7 +1,7 @@
-# Title: Analysis of Traditional RF Method with Census Data and Innovative RF method with High-resolution Satellite Images in Poverty Assessment
+# Title: Analysis of Conventional RF Method with Census Data and Innovative RF Method with High-resolution Satellite Images in Sub-Saharan Poverty Assessment
 
 ## Name: Shiyun (Sunny) Shao
-## Word Count:  1767
+## Word Count:  1865
 ## Introduction
 
 Poverty is one of the most important issues in human development: the state or condition in which a person or community lacks the financial resources and essentials for a minimum standard of living so that the basic human needs cannot be met is the foundation to development. Basic freedom to satisfy basic needs like food, water, and clothing are restricted in this case so that further development on account of expanding substantive freedom would not be achieved. Poverty in Sub-Saharan Africa is particularly related to the epidemics of disease including malaria, cholera, Aids, and high infant death rates, and a lowering of the overall living standards. The long-lasting unsolved feature of the internally generated problem that involves rich interaction between a large number of adaptive agents that are co-evolving indicates the inherent and complex nature of poverty issue in Sub-Saharan Africa. 
@@ -104,6 +104,21 @@ The Random Forest model performs substantially better than several other commonl
 ![114](https://user-images.githubusercontent.com/78276966/115956464-5bf8a580-a52f-11eb-992d-29e83014b7d2.png)
 
 The plot that reveals the relationship between the Observed census counts plotted from the finer census administrative units and the summed grid cell values from the population map estimated using coarser administrative units for Kenya shows that the RF methodology presents comparably accurate prediction for observed census values larger than zero. However, there may still be some refinement possible to better predict when census units include low or zero counts (Stevens et al. 2015).
+
+
+### 3.3 Compare and Contrast
+
+The R^2 values of the traditional census-based RF model without the use of Google satellite images are 0.55, 0.58, 0.66, 0.69, and 0.75 for five countries in Africa, while the RF model with high-resolution satellite images database is 0.70, indicating that the RF model using satellite images is more efficient and accurate than the conventional census-based RF model. 
+
+
+## Conclusion 
+
+In the absence of poverty survey data from Sub-Saharan Africa, remote sensing data and road maps that can reflect some of the environmental characteristics that are associated with poverty provides reliable data for poverty estimation. By integrating multi-source data like land cover map, OSM road map, and Google satellite imagery with the RF model at 5km x 5km resolution, we are able to identify variables representing poverty dimensions of POI and geospatial categories. Following a vigorous variable selection procedure with RF algorithm, variables were selected to offer the best predictive ability, iterating the training of the RF model. With the accuracy confirmation procedure, the improved RF model presents a high overall accuracy of poverty estimation. Compared with the conventional census-based RF model with an average R^2 of 0.66, innovative RF model with high-resolution satellite images database provided higher accuracy rate to poverty assessment. 
+
+
+## Reflections on Literature Gaps
+
+Although the studies build comparison between conventional and innovative measures, and indicate the benefits as well as insufficiencies of both methods, none of them clarified the best respective proportion recommended to employ census-based and innovative methodologies under the respective circumstances of different regions. Therefore, the literature gap appeared in the research, leading to my research question on the methodological system to balance the application of conventional RF method with census data and innovative RF method with high-resolution satellite images not only in the Sub-Saharan African poverty assessment without census abundance, but also in other regions with census available.
 
 
 
