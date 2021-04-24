@@ -55,6 +55,7 @@ The steps to construct the tress for the random forests could be concluded to th
 ![1](https://user-images.githubusercontent.com/78276966/115510175-fba90000-a2b1-11eb-829d-0096d4f45bc7.jpg)
 
 ![2](https://user-images.githubusercontent.com/78276966/115510177-fd72c380-a2b1-11eb-9317-810b0109b8ce.jpg)
+
 (Okiabera, 2020)
 
 The output that the ensemble of decision trees made are denoted by TbB; the class predicted by the bth tree is denoted by Cˆb(x); the prediction is calculated by: 
