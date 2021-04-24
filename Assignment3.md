@@ -133,13 +133,13 @@ Although the studies build comparison between conventional and innovative measur
 1.	Achia, T., Wangombe, A. & Khadioli, N. (2010). A Logistic Regression Model to Identify Key Determinants of Poverty Using Demographic and Health Survey Data. European Journal of Social Sciences – Volume 13, Number 1 (2010)
 http://erepository.uonbi.ac.ke/handle/11295/38629
 
-2. Okiabera, Joel O. (2020). Using random forest (RF) to identify key determinants of poverty in Kenya. -College of Biological and Physical Sciences (CBPS) [3614] http://erepository.uonbi.ac.ke/handle/11295/154190
+2.	Horning, N. (2010). Random Forests: An algorithm for image classification and generation of continuous fields data sets. Retrieved from https://www.semanticscholar.org/paper/Random-Forests-:-An-algorithm-for-image-and-of-data-Horning/9484240b4dfe10a40b80037d6869c4b035615be9
 
-3.	Horning, N. (2010). Random Forests: An algorithm for image classification and generation of continuous fields data sets. Retrieved from https://www.semanticscholar.org/paper/Random-Forests-:-An-algorithm-for-image-and-of-data-Horning/9484240b4dfe10a40b80037d6869c4b035615be9
+3. Kouwenhoven, L. (2019). Poverty Distribution Mapping Using a Random Forest Algorithm: A Case Study of the Mekong River Delta. Retrieved from https://spinlab.vu.nl/wp-content/uploads/2019/06/Kouwenhoven_L.pdf
 
-4.	Kouwenhoven, L. (2019). Poverty Distribution Mapping Using a Random Forest Algorithm: A Case Study of the Mekong River Delta. Retrieved from https://spinlab.vu.nl/wp-content/uploads/2019/06/Kouwenhoven_L.pdf
+4.	Li, K., Chen, Y., Li, Y. (2018). The Random Forest-Based Method of Fine-Resolution Population Spatialization by Using the International Space Station Nighttime Photography and Social Sensing Data. Remote Sens. 2018, 10(10), 1650; https://doi.org/10.3390/rs10101650
 
-5.	Li, K., Chen, Y., Li, Y. (2018). The Random Forest-Based Method of Fine-Resolution Population Spatialization by Using the International Space Station Nighttime Photography and Social Sensing Data. Remote Sens. 2018, 10(10), 1650; https://doi.org/10.3390/rs10101650
+5. Okiabera, Joel O. (2020). Using random forest (RF) to identify key determinants of poverty in Kenya. -College of Biological and Physical Sciences (CBPS) [3614] http://erepository.uonbi.ac.ke/handle/11295/154190
 
 6.	Stevens, F.R., Gaughan, A.E., Linard,C. & Tatem, A.J. (2015). Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data. PLoS ONE 10 (2): e0107042. doi:10.1371/journal.pone.0107042
 
