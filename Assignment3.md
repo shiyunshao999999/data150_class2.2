@@ -76,9 +76,10 @@ with j = 1, 2 to represent poverty class.
 In Okiabera’s article, the dataset to analyze the critical determinants of poverty is from the 2014 Demographic and Health Surveys (DHS) in Kenya. The first procedure before applying the random forests algorithm is to remove incomplete cases and eliminate unnecessary variables from the dataset to a smaller dataset (Thoplan, 2014). Variables like “age at marriage”, “employment status” and “length of service” have been removed from the new dataset due to a very high proportion of missing values. The resulting variables taken into analysis include Sex of head of household, Age of head of household, Marital Status, Highest educational level attained, Type of place of residence, Region, and Number of household members (Okiabera, 2020). After the necessary data pre-processing is applied, an indicator (outcome) variable named N_Poverty is defined to be Poor as income < 2800, and Not Poor as income >= 2800. 
 
 
-### 2.1 The Random Forests Algorithm with the Use of Remote Sensing and Geospatial Data
+### 2.2 The Random Forests Algorithm with the Use of Remote Sensing and Geospatial Data
 
 ![111](https://user-images.githubusercontent.com/78276966/115956405-1340ec80-a52f-11eb-86e2-8139bb672f47.png)
+(Kouwenhoven, 2019)
 
 In the field of poverty and population mapping, two forms of data are generally used: remote sensing data like satellite imagery, land cover, nighttime light and geospatial data like road networks, population densities, built up area (Stevens et al., 2015). The point of interest data has demonstrated promising results in recent studies, indicating that it is a valuable asset in population or poverty mapping. A POI is an item of particular interest to some individual, on a map represented by a point, which include schools, hospitals and government buildings. In Kouwenhoven’s study, land use data from MODIS was selected as the category remote sensing data, while satellite data was used indirectly, since the land use data published by MODIS is based on satellite imagery. OpenStreetMap (OSM) was used as the source of POI data, allowing any internet user around the world to add information related to familiar localities (Kouwenhoven, 2019). In the study by Stevens et al., population distribution is often highly correlated with land cover types. They incorporate land cover information using one of two thematic land cover classification data sets. The GeoCover dataset provides consistent global mapping of 13 land cover classes at a 30-meter spatial resolution. GlobCover data, which are derived from the ENVISAT satellite mission's MERIS (Medium Resolution Image Spectrometer) imagery, were used for Kenya poverty assessment. 
 
@@ -87,6 +88,7 @@ From the category of POI data, variables like POI_Density and Distance-to-POI ar
 The python-based sklearn library that provides a RandomForestRegressor package builds estimation of the data and fitting of the model. In poverty assessment and prediction, a regressor is used due to the continuous nature of the dependent variable (Kouwenhoven, 2019). All variables were included initially; then the least important variable at each iteration were removed from the model. If the OOB error of the model increased, the variable is added back to the model. The process is repeated until no further improvement was observed on removal of variables (Zhao, et al., 2019).
 
 ![python code](https://user-images.githubusercontent.com/78276966/115970534-8a00d880-a575-11eb-9d10-2f720cb76abb.png)
+(Kouwenhoven, 2019)
 
 ## 3.	Results
 ### 3.1 Research Result from Census-based RF Poverty Assessment 
@@ -94,6 +96,7 @@ The python-based sklearn library that provides a RandomForestRegressor package b
 The results (Okiabera, 2020) showed that variables had a very small percentage of missingness inside the model. There was elimination in error of the classifier as the trees in the classification was increased. By considering Mean Decrease in Gini, from high to low, the variables in descending order of importance are the highest education level attained, type of place of residence, region, age of household head, number of household members, marital status, and sex of the household head. The RF classification was improved on the poorest and richest classes (the extreme ends of the wealth index), while the middle, poorer and richer indices were not as accurately classified. RF builds a significant improvement among classical regression techniques: the multiclass classification issue was comprehensively considered inside the analysis, and the poverty status as the out-of-bag error is low overall when more trees are added in the forest (Thoplan, 2014). Although the model accuracy was presented as 47.73% in the first place, within the help of the confusion matrix for all classes with the calculation of Accuracy, Error rate, Specificity, and Sensitivity, researchers could then build a better understanding to the process of classification for each class (Okiabera, 2020). 
 
 ![9](https://user-images.githubusercontent.com/78276966/115512059-21cf9f80-a2b4-11eb-89d7-21928e58820d.png)
+(Okiabera, 2020)
 
 Meanwhile, Restricting RF predictions to a limited set of variables also illustrates a realistic setting in which poverty is tracked with smaller surveys that only collects data on a limited number of aspects. However, there is no loss of accuracy in predicting poverty using the restricted model with smaller number of variables compared to the full model without restrictions (the variations between the full and restricted models are small). Hence, the RF approach also predicts poverty accurately using only a small model, and can therefore be a real alternative for tracking of poverty with predictions (Stevens et al., 2015). 
 
@@ -102,6 +105,7 @@ Meanwhile, Restricting RF predictions to a limited set of variables also illustr
 The Random Forest model performs substantially better than several other commonly used, freely available approaches for dasymetric mapping at country-level scales. An assessment of which of the ancillary data covariates are important for accurately estimating population density at the census unit level is produced by the Random Forest algorithm. For Kenya, distance to health facility is by far the most important predictor for reducing the amount of variability. This indicates that this ancillary dataset is extremely valuable, even more than the distance-to-built land cover which is typically extremely important (Stevens et al., 2015).  
 
 ![114](https://user-images.githubusercontent.com/78276966/115956464-5bf8a580-a52f-11eb-992d-29e83014b7d2.png)
+(Stevens et al., 2015)
 
 The plot that reveals the relationship between the Observed census counts plotted from the finer census administrative units and the summed grid cell values from the population map estimated using coarser administrative units for Kenya shows that the RF methodology presents comparably accurate prediction for observed census values larger than zero. However, there may still be some refinement possible to better predict when census units include low or zero counts (Stevens et al. 2015).
 
