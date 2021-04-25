@@ -98,7 +98,7 @@ The results (Okiabera, 2020) showed that variables had a very small percentage o
 ![9](https://user-images.githubusercontent.com/78276966/115512059-21cf9f80-a2b4-11eb-89d7-21928e58820d.png)
 (Okiabera, 2020)
 
-Meanwhile, Restricting RF predictions to a limited set of variables also illustrates a realistic setting in which poverty is tracked with smaller surveys that only collects data on a limited number of aspects. However, there is no loss of accuracy in predicting poverty using the restricted model with smaller number of variables compared to the full model without restrictions (the variations between the full and restricted models are small). Hence, the RF approach also predicts poverty accurately using only a small model, and can therefore be a real alternative for tracking of poverty with predictions (Stevens et al., 2015). 
+Meanwhile, restricting RF predictions to a limited set of variables also illustrates a realistic setting in which poverty is tracked with smaller surveys that only collects data on a limited number of aspects. However, there is no loss of accuracy in predicting poverty using the restricted model with smaller number of variables compared to the full model without restrictions (the variations between the full and restricted models are small). Hence, the RF approach also predicts poverty accurately using only a small model, and can therefore be a real alternative for tracking of poverty with predictions (Stevens et al., 2015). 
 
 ### 3.2 Research Results from Remote Sensing and Geospatial Data-based Poverty Assessment 
 
