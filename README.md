@@ -20,6 +20,9 @@
 
 9. [Assignment 3 Outline](https://shiyunshao999999.github.io/data150_class2.2/Assignment3Outline.html)
 
+10. [Final Presentation Framework](https://shiyunshao999999.github.io/data150_class2.2/finalpresframe.html)
+
+
 ## Formal Exercises
 
 1. [Assignment 1: Annotated Bibliography](https://shiyunshao999999.github.io/data150_class2.2/Assignment1.html)
