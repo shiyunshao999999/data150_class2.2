@@ -1,8 +1,8 @@
 ## Title: Balance the Application of Conventional Census-Based Measures and Innovative High-Resolution Satellite-Based Measures to Increase Accuracy and Flexibility in Sub-Saharan African Poverty Assessment with the Use of Random Forests Method
-## Date: 5/4
+## Present Date: 5/4
 
 
-## Introduction to the Poverty issue in Sub-Saharan African Countries
+## 1. Introduction to the Poverty issue in Sub-Saharan African Countries
 ### Poverty 
 Basic Freedom – Restricted
 
@@ -10,7 +10,7 @@ Basic Freedom – Restricted
 Various Policy Actions - Social Development
 
 
-## Methods
+## 2. Methods
 ### Decision Trees
 
 -	with census base
@@ -64,5 +64,6 @@ While a majority vote means that from a set of decision trees in the random fore
 ### Python Code
 
 ## Research Plan
-
-
+1. Literature Gap
+2. Problem Statement
+3. Explain the NEW Flowchart
