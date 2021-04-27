@@ -130,24 +130,21 @@ Although the studies build comparison between conventional and innovative measur
 
 ## Reference
 
-1.	Achia, T., Wangombe, A. & Khadioli, N. (2010). A Logistic Regression Model to Identify Key Determinants of Poverty Using Demographic and Health Survey Data. European Journal of Social Sciences – Volume 13, Number 1 (2010)
-http://erepository.uonbi.ac.ke/handle/11295/38629
+1.	Horning, N. (2010). Random Forests: An algorithm for image classification and generation of continuous fields data sets. Retrieved from https://www.semanticscholar.org/paper/Random-Forests-:-An-algorithm-for-image-and-of-data-Horning/9484240b4dfe10a40b80037d6869c4b035615be9
 
-2.	Horning, N. (2010). Random Forests: An algorithm for image classification and generation of continuous fields data sets. Retrieved from https://www.semanticscholar.org/paper/Random-Forests-:-An-algorithm-for-image-and-of-data-Horning/9484240b4dfe10a40b80037d6869c4b035615be9
+2. Kouwenhoven, L. (2019). Poverty Distribution Mapping Using a Random Forest Algorithm: A Case Study of the Mekong River Delta. Retrieved from https://spinlab.vu.nl/wp-content/uploads/2019/06/Kouwenhoven_L.pdf
 
-3. Kouwenhoven, L. (2019). Poverty Distribution Mapping Using a Random Forest Algorithm: A Case Study of the Mekong River Delta. Retrieved from https://spinlab.vu.nl/wp-content/uploads/2019/06/Kouwenhoven_L.pdf
+3.	Li, K., Chen, Y., Li, Y. (2018). The Random Forest-Based Method of Fine-Resolution Population Spatialization by Using the International Space Station Nighttime Photography and Social Sensing Data. Remote Sens. 2018, 10(10), 1650; https://doi.org/10.3390/rs10101650
 
-4.	Li, K., Chen, Y., Li, Y. (2018). The Random Forest-Based Method of Fine-Resolution Population Spatialization by Using the International Space Station Nighttime Photography and Social Sensing Data. Remote Sens. 2018, 10(10), 1650; https://doi.org/10.3390/rs10101650
+4. Okiabera, Joel O. (2020). Using random forest (RF) to identify key determinants of poverty in Kenya. -College of Biological and Physical Sciences (CBPS) [3614] http://erepository.uonbi.ac.ke/handle/11295/154190
 
-5. Okiabera, Joel O. (2020). Using random forest (RF) to identify key determinants of poverty in Kenya. -College of Biological and Physical Sciences (CBPS) [3614] http://erepository.uonbi.ac.ke/handle/11295/154190
+5.	Stevens, F.R., Gaughan, A.E., Linard,C. & Tatem, A.J. (2015). Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data. PLoS ONE 10 (2): e0107042. doi:10.1371/journal.pone.0107042
 
-6.	Stevens, F.R., Gaughan, A.E., Linard,C. & Tatem, A.J. (2015). Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data. PLoS ONE 10 (2): e0107042. doi:10.1371/journal.pone.0107042
+6.	Sohnesen, T.P. & Stender,N. (2016). Is random forest a superior methodology for predicting poverty? an empirical assessment (English). Policy Research working paper;no. WPS 7612 Washington, D.C. : World Bank Group. http://documents.worldbank.org/curated/en/777401467987858907/Is-random-forest-a-superior-methodology-for-predicting-poverty-an-empirical-assessment
 
-7.	Sohnesen, T.P. & Stender,N. (2016). Is random forest a superior methodology for predicting poverty? an empirical assessment (English). Policy Research working paper;no. WPS 7612 Washington, D.C. : World Bank Group. http://documents.worldbank.org/curated/en/777401467987858907/Is-random-forest-a-superior-methodology-for-predicting-poverty-an-empirical-assessment
+7.	Thoplan, Ruben. (2014). Random Forests for Poverty Classification. International Journal of Sciences: Basic and Applied Research (IJSBAR). 17. 252-259.
 
-8.	Thoplan, Ruben. (2014). Random Forests for Poverty Classification. International Journal of Sciences: Basic and Applied Research (IJSBAR). 17. 252-259.
-
-9.	Yiu, T. (2019). Understanding Random Forest. Retrieved from
+8.	Yiu, T. (2019). Understanding Random Forest. Retrieved from
 https://towardsdatascience.com/understanding-random-forest-58381e0602d2
 
-10.	Zhao, X., Yu, B., Liu, Y. & Chen, Z. (2019). Estimation of Poverty Using Random Forest Regression with Multi-Source Data: A Case Study in Bangladesh. Remote Sens. 2019, 11(4), 375; https://doi.org/10.3390/rs11040375
+9.	Zhao, X., Yu, B., Liu, Y. & Chen, Z. (2019). Estimation of Poverty Using Random Forest Regression with Multi-Source Data: A Case Study in Bangladesh. Remote Sens. 2019, 11(4), 375; https://doi.org/10.3390/rs11040375
