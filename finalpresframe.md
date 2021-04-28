@@ -58,7 +58,8 @@ Response Variables:
 While a majority vote means that from a set of decision trees in the random forest, the mostly voted class is the final classification
 2. The calculation of the regression is calculated by, which represents the average class choice and the regression choice
 3. The impurity measure i(t) is the Gini index, which is used to determine the branching of the decision trees right from the root nodes to the child nodes
-4. The calculation of the Mean Decrease Impurity Measure, the result of which provides a ranking of variable importance: the variable with the largest decrease in impurity will be considered as the most important variable. 
+4. The calculation of the Mean Decrease Impurity Measure, the result of which provides a ranking of variable importance: the variable with the largest decrease in impurity will be considered as the most important variable
+5. The final function is the Out of Bag estimation calculating by the difference in the mean square errors between the OOB data and the data used to grow the regression trees
 
 ### Flowchart
 ### Python Code
