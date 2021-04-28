@@ -30,3 +30,5 @@
 2. [Assignment 2: Literature Review](https://shiyunshao999999.github.io/data150_class2.2/Assignment2.html)
 
 3. [Assignment 3: Data Science Methods](https://shiyunshao999999.github.io/data150_class2.2/Assignment3.html)
+
+4. [Assignment 4: Final Presentation (PowerPoint)](https://shiyunshao999999.github.io/data150_class2.2/finalpreppt.html)
