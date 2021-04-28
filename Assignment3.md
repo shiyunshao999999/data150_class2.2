@@ -110,7 +110,7 @@ The Random Forest model performs substantially better than several other commonl
 The plot that reveals the relationship between the Observed census counts plotted from the finer census administrative units and the summed grid cell values from the population map estimated using coarser administrative units for Kenya shows that the RF methodology presents comparably accurate prediction for observed census values larger than zero. However, there may still be some refinement possible to better predict when census units include low or zero counts (Stevens et al. 2015).
 
 
-### 3.3 Compare and Contrast
+### 3.3 Compare and Contrast on Accuracy
 
 The R^2 values of the traditional census-based RF model without the use of Google satellite images are 0.55, 0.58, 0.66, 0.69, and 0.75 for five countries in Africa, while the RF model with high-resolution satellite images database is 0.70, indicating that the RF model using satellite images is more efficient and accurate than the conventional census-based RF model. 
 
