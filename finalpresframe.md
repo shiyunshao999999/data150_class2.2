@@ -69,6 +69,3 @@ While a majority vote means that from a set of decision trees in the random fore
 2. Problem Statement
 3. Explain the NEW Flowchart
 
-
-
-[DATA final presentation.pptx](https://github.com/shiyunshao999999/data150_class2.2/files/6388312/DATA.final.presentation.pptx)
