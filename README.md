@@ -31,4 +31,4 @@
 
 3. [Assignment 3: Data Science Methods](https://shiyunshao999999.github.io/data150_class2.2/Assignment3.html)
 
-4. [Assignment 4: Final Presentation (PowerPoint)](https://shiyunshao999999.github.io/data150_class2.2/finalpreppt.html)
+4. [Assignment 4a: Final Presentation (PowerPoint)](https://shiyunshao999999.github.io/data150_class2.2/finalpreppt.html)
