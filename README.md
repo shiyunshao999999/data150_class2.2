@@ -22,6 +22,8 @@
 
 10. [Final Presentation Framework](https://shiyunshao999999.github.io/data150_class2.2/finalpresframe.html)
 
+11. [Assignment 4b Outline](https://shiyunshao999999.github.io/data150_class2.2/Assignment4Outline.html)
+
 
 ## Formal Exercises
 
@@ -32,3 +34,6 @@
 3. [Assignment 3: Data Science Methods](https://shiyunshao999999.github.io/data150_class2.2/Assignment3.html)
 
 4. [Assignment 4a: Final Presentation (PowerPoint)](https://shiyunshao999999.github.io/data150_class2.2/finalpreppt.html)
+
+5. [Assignment 4b: Research Proposal](https://shiyunshao999999.github.io/data150_class2.2/Assignment4.html)
+
