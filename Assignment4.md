@@ -72,7 +72,7 @@ Demographic and Health Surveys (DHS) and Living Standards Measurement Study data
  
  
  
-### 3.2 Methods
+### 3.2 Methods 
 
 
 ![flowchart of research plan](https://user-images.githubusercontent.com/78276966/118393403-868ed780-b671-11eb-8082-37dbc7813fb5.jpg)
