@@ -27,7 +27,7 @@ H0: the r value between the estimated WI at grid-level and the estimated WI at t
 HA: the r value between the estimated WI at grid-level and the estimated WI at the district-level ∈ [0,1]
  
  
-### 2.3  Replicability of the Model in Different Geographical Context
+### 2.3  Replicability of the Model in Different Geographical Context 
  
 #### 2.3.1   	Replicability of the Model in Other Countries in Sub-Saharan Africa
  
