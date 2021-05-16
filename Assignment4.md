@@ -112,12 +112,12 @@ For subsequent research suggestions, first, micro-census data could be taken int
 
 1.	Bersisa, M. & Heshmati, A. (2021). A Distributional Analysis of Uni-and Multidimensional Poverty and Inequalities in Ethiopia. Soc Indic Res (2021). https://doi.org/10.1007/s11205-021-02606-w
 
-3.	Kouwenhoven, L. (2019). Poverty Distribution Mapping Using a Random Forest Algorithm: A Case Study of the Mekong River Delta. Retrieved from https://spinlab.vu.nl/wp-content/uploads/2019/06/Kouwenhoven_L.pdf
+2.	Kouwenhoven, L. (2019). Poverty Distribution Mapping Using a Random Forest Algorithm: A Case Study of the Mekong River Delta. Retrieved from https://spinlab.vu.nl/wp-content/uploads/2019/06/Kouwenhoven_L.pdf
 
-4.	Stevens, F.R., Gaughan, A.E., Linard,C. & Tatem, A.J. (2015). Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data. PLoS ONE 10 (2): e0107042.
+3.	Stevens, F.R., Gaughan, A.E., Linard,C. & Tatem, A.J. (2015). Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data. PLoS ONE 10 (2): e0107042.
 doi:10.1371/journal.pone.0107042
 
-5.	Zhao, X., Yu, B., Liu, Y. & Chen, Z. (2019). Estimation of Poverty Using Random Forest Regression with Multi-Source Data: A Case Study in Bangladesh. Remote Sens. 2019, 11(4), 375; https://doi.org/10.3390/rs11040375
+4.	Zhao, X., Yu, B., Liu, Y. & Chen, Z. (2019). Estimation of Poverty Using Random Forest Regression with Multi-Source Data: A Case Study in Bangladesh. Remote Sens. 2019, 11(4), 375; https://doi.org/10.3390/rs11040375
 
 
 
