@@ -56,10 +56,13 @@ HA: the estimated WI after government regulations - the estimated WI before gove
 ### 3.1 Data
  
 Geospatial data
-remote sensing data
+
+Remote sensing data
+
 Point-of-interest data
 
 Demographic and Health Surveys (DHS) 
+
 Living Standards Measurement Study data
  
  
