@@ -144,7 +144,7 @@ Although the studies build comparison between conventional and innovative measur
 
 7.	Thoplan, Ruben. (2014). Random Forests for Poverty Classification. International Journal of Sciences: Basic and Applied Research (IJSBAR). 17. 252-259.
 
-8.	Yiu, T. (2019). Understanding Random Forest. Retrieved from
+8.	Yiu, T. (2019). Understanding Random Forest. Retrieved from 
 https://towardsdatascience.com/understanding-random-forest-58381e0602d2
 
 9.	Zhao, X., Yu, B., Liu, Y. & Chen, Z. (2019). Estimation of Poverty Using Random Forest Regression with Multi-Source Data: A Case Study in Bangladesh. Remote Sens. 2019, 11(4), 375; https://doi.org/10.3390/rs11040375
