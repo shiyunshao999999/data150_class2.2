@@ -35,5 +35,5 @@
 
 4. [Assignment 4a: Final Presentation (PowerPoint)](https://shiyunshao999999.github.io/data150_class2.2/finalpreppt.html)
 
-5. [Assignment 4b: Research Proposal](https://shiyunshao999999.github.io/data150_class2.2/Assignment.html)
+5. [Assignment 4b: Research Proposal](https://shiyunshao999999.github.io/data150_class2.2/Assignment4.html)
 
