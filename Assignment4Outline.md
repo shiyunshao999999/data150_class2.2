@@ -88,8 +88,4 @@ a series of following tests corresponding to government policies
 evaluation tests on aspects other than the existing comparisons
 
 
-5.	Zhao, X., Yu, B., Liu, Y. & Chen, Z. (2019). Estimation of Poverty Using Random Forest Regression with Multi-Source Data: A Case Study in Bangladesh. Remote Sens. 2019, 11(4), 375; https://doi.org/10.3390/rs11040375
-
-
-
 
